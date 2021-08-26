@@ -6,4 +6,4 @@ A markdown file is a text file with special formatting. These files have the ext
 
 ![](Comp%20Sci-3.jpg)
 
-## Fig 1: A basic list of whats inside a computer, ranging from the motherboard and CPU to something precise as basic IO's. 
+## Fig 1: A basic list of whats inside a computer, ranging from the motherboard and CPU to something precise as  IO's and ROM's. 
