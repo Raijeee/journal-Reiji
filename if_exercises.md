@@ -1,5 +1,5 @@
 ## Minimum of two numbers
-# Given two integers, print the smaller value.
+Given two integers, print the smaller value.
 
 ```.py
 #Get input of two values (a,b)
