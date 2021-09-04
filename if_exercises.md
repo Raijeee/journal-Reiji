@@ -1,3 +1,5 @@
+(DONT USE DARK MODE OR ELSE THE FLOW CHART IS NOT VISIBLE) 
+
 ## Minimum of two numbers
 Given two integers, print the smaller value.
 
