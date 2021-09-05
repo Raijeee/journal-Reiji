@@ -130,7 +130,14 @@ In chess, the bishop moves diagonally, any number of squares. Given two differen
 The program receives as input four numbers from 1 to 8, specifying the column and row numbers of the starting square and the column and row numbers of the ending square. The program should output YES if a Bishop can go from the first square to the second in one move, or NO otherwise.
 
 ```.py
-
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+if abs(a-c)==abs(b-d):
+    print("YES")
+else:
+    print("NO")
 ```
 ![](1.8.png)
 ## Queen move
@@ -138,7 +145,14 @@ Chess queen moves horizontally, vertically or diagonally to any number of cells.
 The program receives the input of four numbers from 1 to 8, each specifying the column and row number, first two - for the first cell, and then the last two - for the second cell. The program should output YES if a queen can go from the first cell to the second in one move, or NO otherwise.
 
 ```.py
-
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+if abs(a-c)==abs(b-d) or a==c or b==d:
+    print("YES")
+else:
+    print("NO")
 ```
 ![](1.9.png)
 ## Knight move
@@ -146,7 +160,14 @@ Chess knight moves like the letter L. It can move two cells horizontally and one
 The program receives the input of four numbers from 1 to 8, each specifying the column and row number, first two - for the first cell, and then the last two - for the second cell. The program should output YES if a knight can go from the first cell to the second in one move, or NO otherwise.
 
 ```.py
-
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+if abs(a-c)==1 and abs(b-d)==2 or abs(a-c)==2 and abs(b-d)==1:
+    print("YES")
+else:
+    print("NO")
 ```
 ![](1.10.png)
 ## Chocolate bar
@@ -154,7 +175,13 @@ Chocolate bar has the form of a rectangle divided into n×m portions. Chocolate 
 The program reads three integers: n, m, and k. It should print YES or NO.
 
 ```.py
-
+n=int(input())
+m=int(input())
+k=int(input())
+if k < n*m and ((k%n == 0) or (k%m == 0)):
+    print('YES')
+else:
+    print('NO')
 ```
 ![](1.11.png)
 ## Leap year
@@ -166,6 +193,11 @@ a year is always a leap year if its number is exactly divisible by 400
 Warning. The words LEAP and COMMON should be printed all caps.
 
 ```.py
+a = int(input())
 
+if a%4==0 and a%100>=1 or a%400==0:
+    print("LEAP")
+else:
+    print("COMMON")
 ```
 ![](1.12.png)
