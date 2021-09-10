@@ -1,4 +1,4 @@
-## Series - 1
+## 1. Series - 1
 Given two integers A and B (A ≤ B). Print all numbers from A to B inclusively.
 
 ```.py
@@ -11,7 +11,7 @@ for x in range((b-a)+1):
     a+=1
 ```
 
-## Series - 2
+## 2. Series - 2
 Given two integers A and B. Print all numbers from A to B inclusively, in ascending order, if A < B, or in descending order, if A ≥ B.
 
 ```.py
@@ -28,7 +28,7 @@ else:
         print(x)
 ```
 
-## Sum of ten numbers
+## 3. Sum of ten numbers
 10 numbers are given in the input. Read them and print their sum. Use as few variables as you can.
 
 ```.py
@@ -41,7 +41,7 @@ for i in range(10):
 print(x)
 ```
 
-## Sum of N numbers
+## 4. Sum of N numbers
 N numbers are given in the input. Read them and print their sum.
 
 The first line of input contains the integer N, which is the number of integers to follow. Each of the next N lines contains one integer. Print the sum of these N integers.
@@ -59,7 +59,7 @@ for i in range (n):
 print(y)
 ```
 
-## Sum of cubes
+## 5. Sum of cubes
 For the given integer N calculate the following sum:
 1^3+2^3+…+N^3
 
@@ -73,7 +73,7 @@ for i in range(1, int(input()) + 1):
 print(a)
 ```
 
-## Factorial
+## 6. Factorial
 In mathematics, the factorial of an integer n, denoted by n! is the following product:
 n!=1×2×…×n
 For the given integer n calculate the value n!. Don't use math module in this exercise.
@@ -91,7 +91,7 @@ for i in range (n):
 print(a)
 ```
 
-## The number of zeros
+## 7. The number of zeros
 Given N numbers: the first number in the input is N, after that N integers are given. Count the number of zeros among the given integers and print it.
 You need to count the number of numbers that are equal to zero, not the number of zero digits.
 
