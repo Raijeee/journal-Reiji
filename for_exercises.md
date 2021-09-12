@@ -29,6 +29,7 @@ else:
         print(x)
 ```
 
+![](2.2.jpg)
 ## 3. Sum of ten numbers
 10 numbers are given in the input. Read them and print their sum. Use as few variables as you can.
 
@@ -42,6 +43,7 @@ for i in range(10):
 print(x)
 ```
 
+![](2.3.jpg)
 ## 4. Sum of N numbers
 N numbers are given in the input. Read them and print their sum.
 
@@ -60,6 +62,7 @@ for i in range (n):
 print(y)
 ```
 
+![](2.4.jpg)
 ## 5. Sum of cubes
 For the given integer N calculate the following sum:
 1^3+2^3+…+N^3
@@ -74,6 +77,7 @@ for i in range(1, int(input()) + 1):
 print(a)
 ```
 
+![](2.5.jpg)
 ## 6. Factorial
 In mathematics, the factorial of an integer n, denoted by n! is the following product:
 n!=1×2×…×n
@@ -92,6 +96,7 @@ for i in range (n):
 print(a)
 ```
 
+![](2.6.jpg)
 ## 7. The number of zeros
 Given N numbers: the first number in the input is N, after that N integers are given. Count the number of zeros among the given integers and print it.
 You need to count the number of numbers that are equal to zero, not the number of zero digits.
@@ -108,4 +113,4 @@ for i in range (n):
 # Print results (x)
 print(x)
 ```
-
+![](2.7.jpg)
