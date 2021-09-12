@@ -11,7 +11,7 @@ for x in range((b-a)+1):
     a+=1
 ```
 
-[]!(2.1.jpg)
+![](2.1.jpg)
 ## 2. Series - 2
 Given two integers A and B. Print all numbers from A to B inclusively, in ascending order, if A < B, or in descending order, if A ≥ B.
 
