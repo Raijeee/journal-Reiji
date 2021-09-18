@@ -2,12 +2,11 @@
 For a given integer N, print all the squares of integer numbers where the square is less than or equal to N, in ascending order.
 
 ```.py
-n= int(input())
-for i in range (1,100):
-    if n<i**2:
-        break
-    else:
-        print(i**2)
+n = int(input())
+i = 1
+while i ** 2 <= n:
+    print(i ** 2)
+    i += 1
 ```
 ![](3.1.png)
 ## Least divisor
