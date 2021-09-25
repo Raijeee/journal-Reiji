@@ -8,7 +8,7 @@ In my opinion, I think the client should be involved from the start. This will i
 I think in this game it is a necessity to create a MVP (Minimum Viable Product). As I am making an adventure game with numerous outcomes, the first “skateboard” or the first stage of the MVP could include the themes of the game and perhaps the possible outcomes of the games. This will help me understand what kind of game the client wants and even the genre of the game. 
 
 
-# Watch this video about "doors": https://www.youtube.com/watch?v=yY96hTb8WgI&ab_channel=Vox
+## Watch this video about "doors": https://www.youtube.com/watch?v=yY96hTb8WgI&ab_channel=Vox
 
 ## Question 3: Do you see similarities between the Human-Centered Design cycle presented in the video and the Design Cycle we use for developing software? Explain.
 
