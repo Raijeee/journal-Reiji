@@ -16,4 +16,9 @@ Both Human centered and the design cycle focuses on the feedback the object or i
 
 ## Question 4: What are the simple principles for human-centered design presented in the video? Write a sentence with the definition of each.
 
-An example of the simplest principles of human centered design include doors and computers. For example, the door can have a visual indication or a physical limitation to indicate or limit the user with only one input, “push” or “pull”. The door could include an obvious handle to indicate “pull” and a flat metallic side to indicate “push”. Additionally, computers have keyboards that have English letters on them, and with the help of software on the laptop, it gives the user a clear thinking path of what they should expect from this piece of metal. 
+An example of the simplest principles of human centered design include doors and computers. For example, the door can have a visual indication or a physical limitation to indicate or limit the user with only one input, “push” or “pull”. The door could include an obvious handle to indicate “pull” and a flat metallic side to indicate “push”. Additionally, computers have keyboards that have English letters on them, and with the help of software on the laptop, it gives the user a clear thinking path of what they should expect from this piece of metal. Prototyping is also a key factor of making a successful, simple human cetnered design. 
+
+## Question 5. Consider your game. Think about ways you can improve the Players’ Experience using Human-centered design. Write below your ideas:
+
+Currently in my game when the user enters something the program was not expecting, the program just quits without any indication of what was wrong. So perhaps, by adding a simple message of what the user did wrong and letting the user retry their input might help streamline the progress of the game and give feedback of what the user has to do to prevent the error. One more can be audio feedback, where the user can hear what they should expect from the game, helping the user's imagination from the printed text. 
+
