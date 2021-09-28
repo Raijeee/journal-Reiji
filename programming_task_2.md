@@ -2,12 +2,12 @@
 
 
 ```.py
-N = input("Please enter a number: ")
+a = input("What is your number? > ")
 counter = 0
-while int(N) > 9:
-  tens = int(int(N)/10)
-  ones = int(N) - (tens*10)
-  N = tens*ones
+while int(a) > 9:
+  b = int(int(a)/10)
+  c = int(N) - (tens*10)
+ a = b*c
   counter +=1
 
 print(counter)
