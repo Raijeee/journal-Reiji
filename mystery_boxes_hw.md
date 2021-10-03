@@ -19,5 +19,17 @@ print(output2)
 # Mystery Box 2
 
 ```.py
+def mystery_box2 (email):
+    str(email)
+    final=email.split("@")
+    return final
+
+output3 = mystery_box2("reiji.nishikawa@gmail.com")
+print(output3)
+```
+
+# Mystery Box 3
+
+```.py
 
 ```
