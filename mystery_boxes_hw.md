@@ -21,8 +21,9 @@ print(output2)
 ```.py
 def mystery_box2 (email):
     str(email)
-    final=email.split("@")
-    return final
+    firstname=email.split("@")[0:1:]
+    com=email.split("@")[1::]
+    return str(f"{firstname}\n{com}")
 
 output3 = mystery_box2("reiji.nishikawa@gmail.com")
 print(output3)
