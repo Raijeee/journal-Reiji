@@ -12,3 +12,8 @@ else:
 #otherwise print false
     print("FALSE")
 ```
+
+a input = 5
+b input = 5
+
+output = TRUE
