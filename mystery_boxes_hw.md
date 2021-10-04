@@ -15,6 +15,8 @@ print(output)
 output2 = mystery_box1("Hello", True)
 print(output2)
 ```
+olleH
+olleh
 
 # Mystery Box 2
 
@@ -28,6 +30,9 @@ def mystery_box2 (email):
 output3 = mystery_box2("reiji.nishikawa@gmail.com")
 print(output3)
 ```
+[Reiji]
+[Nishikawa]
+[gmail.com]
 
 # Mystery Box 4
 
