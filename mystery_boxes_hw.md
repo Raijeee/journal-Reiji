@@ -37,33 +37,18 @@ print(output3)
 # Mystery Box 4
 
 ```.py
-def mystery_box4(v1,v2,v3,v4,v5,v6,v7):
-    total=v1+v2+v3+v4+v5+v6+v7
-    num=7
-    if v1>7:
-        total-v1
-        num -= 1
-    if v2>7:
-        total-v2
-        num -= 1
-    if v3>7:
-        total-v3
-        num -= 1
-    if v4>7:
-        total-v4
-        num -= 1
-    if v5>7:
-        total-v5
-        num -= 1
-    if v6>7:
-        total-v6
-        num -= 1
-    if v7>7:
-        total-v7
-        num -= 1
-    average=total/num
-    return average
+def mystery_box4(input_list:list):
+    avg = 0
+    filtered_list = []
+    for i in range(len(input_list)):
+        if input_list[i] < 8:
+            avg += input_list[i]
+            filtered_list.append(input_list[i])
+        return (avg / len(input_list)), filtered_list
+input=[7,4,5,6,7,8]
+output4 = mystery_box4(input)
+print(output4)
 
-result = ibscore(5,6,3,8,1,7,9)
-print(result)
 ```
+
+[5.8] [7,4,5,6,7]
