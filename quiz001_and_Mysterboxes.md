@@ -3,7 +3,7 @@
 
 # Mystery Boxes of class
 Kojiro_Months
-'''.py
+```.py
 def conv(input1):
   output1 = ""
   if input1 == 1:
@@ -36,10 +36,10 @@ def conv(input1):
 
 output1 = conv(10)
 print(output1)
-'''
+```
 
 Reiji_Factorial
-'''.py
+```.py
 def mystery_box2(num):
     z=1
     x=1
@@ -49,6 +49,6 @@ def mystery_box2(num):
     return z
 output2=mystery_box2(5)
 print(output2)
-'''
+```
 
 Nagisa_weird_average
