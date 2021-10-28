@@ -1,6 +1,6 @@
 # Quiz 004
 
-'''.py
+```.py
 def perfectN(num):
     a=[]
     b=0
@@ -17,4 +17,4 @@ def perfectN(num):
     return a, c
 a=perfectN(6)
 print(a)
-'''
+```
