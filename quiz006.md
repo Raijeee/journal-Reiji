@@ -1,6 +1,6 @@
 # Quiz 006
 
-![](quiz.006.JPG)
+![](quiz006.JPG)
 
 ```.py
 def mixstart(phrase):
