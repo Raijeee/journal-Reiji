@@ -13,3 +13,8 @@ print(a)
 a=mixstart("piz snacks")
 print(a)
 ```
+
+output:
+True
+True
+False
