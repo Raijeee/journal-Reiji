@@ -1,3 +1,4 @@
+# Quiz 006
 ```.py
 def mixstart(phrase):
     if phrase[1]=="i" and phrase[2]=="x":
