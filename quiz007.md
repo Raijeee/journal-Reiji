@@ -1,6 +1,6 @@
 ![](quiz007.jpg)
 
-'''.py
+```.py
 def letters(prompt):
     out=[]
     for i in range (len(prompt)):
@@ -9,7 +9,7 @@ def letters(prompt):
 
 out=letters("hello")
 print(out)
-'''
+```
 
 output:
 ['0 --> h', '1 --> e', '2 --> l', '3 --> l', '4 --> o']
