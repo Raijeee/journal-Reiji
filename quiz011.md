@@ -1,4 +1,4 @@
-![](quiz011.jpg)
+![](quiz011.jpeg)
 
 ```.py
 def samefirstlast(list):
