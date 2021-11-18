@@ -11,3 +11,5 @@ def wordlength(list):
 a= wordlength(["Hello", "car", "travel","beach"])
 print(a)
 ```
+
+output: 4.75
