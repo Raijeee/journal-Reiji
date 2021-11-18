@@ -18,3 +18,5 @@ def perfectN(num):
 a=perfectN(6)
 print(a)
 ```
+
+Output: ([1, 2, 3], 'True')
