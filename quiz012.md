@@ -1,3 +1,5 @@
+![](quiz012.jpeg)
+
 ```.py
 def wordlength(list):
     a=0
