@@ -1,3 +1,4 @@
+![](quiz013.jpeg)
 ```.py
 food = ["bread", "pasta", "rice"]
 electronics = ["ipad","phone","computer"]
