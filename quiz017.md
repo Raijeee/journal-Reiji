@@ -13,4 +13,4 @@ b=triangle(23,24,25)
 print(a)
 print(b)
 ```
-![](quiz017out.jpeg)
+![](quiz017out.jpg)
