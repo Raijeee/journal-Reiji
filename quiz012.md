@@ -1,3 +1,12 @@
+Given an list of words, find the average word length.
+ 
+Example:
+
+wordlength(["home","car","travel","beach"])→4.5
+wordlength(["sun","sat","cut","can"]) → 3
+wordlength("police", "abacus"]) → 6
+
+
 ![](quiz012.jpeg)
 
 ```.py
