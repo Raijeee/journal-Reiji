@@ -1,10 +1,10 @@
-Given an array of numbers, output TRUE if the array is length 1 or more, and the first element and the last element are equal. Otherwise output FALSE.
+## Given an array of numbers, output TRUE if the array is length 1 or more, and the first element and the last element are equal. Otherwise output FALSE.
  
-Example:
+## Example:
 
-SameFirstLast([1, 2, 3]) → FALSE
-SameFirstLast([1, 2, 3, 1]) → TRUE
-SameFirstLast([1, 2, 1]) → TRUE
+## SameFirstLast([1, 2, 3]) → FALSE
+## SameFirstLast([1, 2, 3, 1]) → TRUE
+## SameFirstLast([1, 2, 1]) → TRUE
 
 
 
@@ -22,4 +22,4 @@ print(a)
 b=samefirstlast([1,2,3])
 print(b)
 ```
-output: True, False
+![](quiz011out.png)
