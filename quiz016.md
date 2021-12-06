@@ -16,6 +16,6 @@ def Swap(inp):
     else:
         swapped = inp
     return swapped
-    ```
+ ```
     
 ![](quiz016out.png)
