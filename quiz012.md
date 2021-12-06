@@ -1,10 +1,10 @@
-Given an list of words, find the average word length.
+## Given an list of words, find the average word length.
  
-Example:
+## Example:
 
-wordlength(["home","car","travel","beach"])→4.5
-wordlength(["sun","sat","cut","can"]) → 3
-wordlength("police", "abacus"]) → 6
+## wordlength(["home","car","travel","beach"])→4.5
+## wordlength(["sun","sat","cut","can"]) → 3
+## wordlength("police", "abacus"]) → 6
 
 
 ![](quiz012.jpeg)
@@ -23,4 +23,4 @@ a= wordlength(["Hello", "car", "travel","beach"])
 print(a)
 ```
 
-output: 4.75
+![](quiz012out.png)
