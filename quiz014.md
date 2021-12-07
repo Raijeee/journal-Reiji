@@ -17,3 +17,4 @@ def evenlyspaced (num1,num2,num3):
             out="True"
     return out
 ```
+![](quiz014out.png)
