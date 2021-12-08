@@ -18,3 +18,5 @@ a=sum67([1,2,12,6,92,4,7,10])
 print(a)
 ```
 ![](quiz018out.png)
+
+![](quiz018flow.jpg)
