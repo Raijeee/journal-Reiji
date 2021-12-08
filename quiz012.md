@@ -24,3 +24,5 @@ print(a)
 ```
 
 ![](quiz012out.png)
+
+![](quiz012flow.jpg)
