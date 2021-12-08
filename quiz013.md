@@ -25,3 +25,4 @@ def total (item, price):
             user.append(item[i])
     return total
 ```
+![](quiz013flow.jpg)
