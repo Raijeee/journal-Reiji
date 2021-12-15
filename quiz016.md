@@ -20,4 +20,4 @@ def Swap(inp):
     
 ![](quiz016out.png)
 
-![](quiz016flow.jpg)
+![](quiz016flowup.jpg)
