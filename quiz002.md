@@ -24,6 +24,8 @@ print(out1)
 print(out2)
 print(out3)
 ```
-
+## Output:
 ![](quiz2out.png)
+
+## Flowchart:
 ![](quiz2flow.jpeg)
