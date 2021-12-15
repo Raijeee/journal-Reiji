@@ -14,4 +14,4 @@ def BigNeighbour(inp):
 ![](quiz010out.png)
 
 ## Flowchart:
-![](quiz010flow.jpeg)
+![](quiz010flow.jpg)
