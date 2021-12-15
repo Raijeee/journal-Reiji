@@ -14,4 +14,4 @@ def tableM(ip):
 ![](quiz005out.png)
 
 ## Flowchart:
-![](quiz005flow.jpeg)
+![](quiz005flow.jpg)
