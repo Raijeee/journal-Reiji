@@ -24,4 +24,4 @@ print(out3)
 ![](quiz1out.png)
 
 ## Flowchart:
-![](quiz1flow.jpeg)
+![](quiz1flow.jpg)
