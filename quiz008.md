@@ -17,4 +17,4 @@ print(o)
 
 ## flow chart:
 
-![](quiz008flow.jpeg)
+![](quiz008flow.jpg)
