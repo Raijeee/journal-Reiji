@@ -22,6 +22,9 @@ print(a)
 b=samefirstlast([1,2,3])
 print(b)
 ```
+
+## Output: 
 ![](quiz011out.png)
 
-![](quiz011flow.jpg)
+## Flowchart:
+![](quiz011flowup.jpg)
