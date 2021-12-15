@@ -1,6 +1,5 @@
 ## Given an integer N, show the multiplication table. 
-
-![](quiz005.jpg)
+![](quiz005.JPG)
 ```.py
 def tableM(ip):
     x=1
