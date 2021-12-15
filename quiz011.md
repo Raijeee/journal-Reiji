@@ -6,17 +6,15 @@
 ## SameFirstLast([1, 2, 3, 1]) → TRUE
 ## SameFirstLast([1, 2, 1]) → TRUE
 
-
-
 ![](quiz011.jpeg)
 
 ```.py
 def samefirstlast(list):
-    a="False"
+    out="False"
     if len(list)>1:
         if list[0]==list[-1]:
-            a="True"
-    return a
+            out="True"
+    return out
 a=samefirstlast([1,2,3,1])
 print(a)
 b=samefirstlast([1,2,3])
