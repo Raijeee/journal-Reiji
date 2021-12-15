@@ -10,5 +10,9 @@ def tableM(ip):
         print(f"{ip}x{y}={x}")
     return
 ```
+
+## Output:
 ![](quiz005out.png)
+
+## Flowchart:
 ![](quiz005flow.jpeg)
