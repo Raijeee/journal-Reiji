@@ -19,5 +19,9 @@ def perfectN(num):
 out=perfectN(6)
 print(out)
 ```
+
+## Output: 
 ![](quiz004out.png)
+
+## Flowchart:
 ![](quiz004flow.jpeg)
