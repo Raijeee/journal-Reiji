@@ -11,16 +11,16 @@
 
 ```.py
 def wordlength(list):
-    a=0
-    b=0
+    list=0
+    out=0
     i=0
     for i in range (len(list)):
-        a += len(list[i])
-    b=a/len(list)
-    return b
+        list += len(list[i])
+    out=list/len(list)
+    return out
 
-a= wordlength(["Hello", "car", "travel","beach"])
-print(a)
+out1= wordlength(["Hello", "car", "travel","beach"])
+print(out1)
 ```
 ## Output:
 ![](quiz012out.png)
