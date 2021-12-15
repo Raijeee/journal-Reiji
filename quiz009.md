@@ -17,4 +17,4 @@ def missingNumber(inp):
 
 ## Flowchart:
 
-![](quiz009flow.jpeg)
+![](quiz009flow.jpg)
