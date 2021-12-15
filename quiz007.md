@@ -1,3 +1,5 @@
+## Given a string, create a function that outputs each letter with its index:
+
 ![](quiz007.jpg)
 
 ```.py
@@ -10,6 +12,5 @@ def letters(prompt):
 out=letters("hello")
 print(out)
 ```
-
-output:
-['0 --> h', '1 --> e', '2 --> l', '3 --> l', '4 --> o']
+![](quiz007out)
+![](quiz007flow)
