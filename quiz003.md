@@ -4,14 +4,14 @@
 ```.py
 def rangePatterN(num):
     n=-1
-    a=""
+    out=""
     for i in range (100):
         if n < num:
             n+=1
         else:
             n=0
-        a+=str(n)+","
-    return a
+        out+=str(n)+","
+    return out
 out=rangePatterN(10)
 print(out)
 ```
