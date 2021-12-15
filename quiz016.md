@@ -17,7 +17,8 @@ def Swap(inp):
         swapped = inp
     return swapped
  ```
-    
+## Output:
 ![](quiz016out.png)
 
+## Flowchart
 ![](quiz016flowup.jpg)
