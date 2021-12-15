@@ -12,5 +12,5 @@ def letters(prompt):
 out=letters("hello")
 print(out)
 ```
-![](quiz007out)
-![](quiz007flow)
+![](quiz007out.png)
+![](quiz007flow.jpeg)
