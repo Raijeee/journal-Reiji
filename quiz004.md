@@ -1,4 +1,5 @@
 # Quiz 004
+## Write a function that receives an integer N, and returns all its factors. 
 
 ```.py
 def perfectN(num):
@@ -15,8 +16,8 @@ def perfectN(num):
     else:
         c="False"
     return a, c
-a=perfectN(6)
-print(a)
+out=perfectN(6)
+print(out)
 ```
-
-Output: ([1, 2, 3], 'True')
+![](quiz004out.png)
+![](quiz004flow.jpeg)
