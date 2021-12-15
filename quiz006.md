@@ -17,8 +17,5 @@ print(a)
 a=mixstart("piz snacks")
 print(a)
 ```
-
-output:
-True
-True
-False
+![](quiz006out.png)
+![](quiz006flow.jpeg)
