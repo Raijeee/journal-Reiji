@@ -17,6 +17,8 @@ def sum67 (num):
 a=sum67([1,2,12,6,92,4,7,10])
 print(a)
 ```
+## Output:
 ![](quiz018out.png)
 
-![](quiz018flow.jpg)
+## Flowchart:
+![](quiz018flowup.jpg)
