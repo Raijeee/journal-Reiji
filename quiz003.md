@@ -15,5 +15,9 @@ def rangePatterN(num):
 out=rangePatterN(10)
 print(out)
 ```
+
+## Output:
 ![](quiz003out.png)
+
+## Flowchart:
 ![](quiz003flow.jpeg)
