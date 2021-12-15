@@ -11,5 +11,10 @@ def maxAbs (list):
 o=maxAbs([4,6,3,2,6,-34])
 print(o)
 ```
-output:
-max absolute is 34
+## output:
+
+![](quiz008out.png)
+
+## flow chart:
+
+![](quiz008flow.jpeg)
