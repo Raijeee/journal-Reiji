@@ -18,5 +18,8 @@ print(a)
 a=mixstart("piz snacks")
 print(a)
 ```
+## Output:
 ![](quiz006out.png)
+
+## Flowchart:
 ![](quiz006flow.jpeg)
