@@ -9,20 +9,22 @@ total([“bread”,“beer”,“ipad”],[300, 800, 30000])
 food = ["bread", "pasta", "rice"]
 electronics = ["ipad","phone","computer"]
 liquor = ["beer","vodka","gin"]
-
 def total (item, price):
-    i=1
-    total=[]
+    total=0
     for i in range (len(item)):
         if item[i] in food:
-            total=price[i]*1.1
+            current=price[i]*1.1
         if item [i] in electronics:
-            total=price[i]
+            current=price[i]*1.15
         if item [i] in liquor:
-            total=price[i]
-        else:
-            user=input(f"What category is {item[i]} food, electronics, liquor")
-            user.append(item[i])
+            current=price[i]*1.2
+        total+=current
     return total
+out1=total(["bread","beer","ipad"],[300, 800, 30000])
+print(out1)
 ```
-![](quiz013flow.jpg)
+
+## Output: 
+![](quiz013out.png)
+## Flowchart:
+![](quiz013flowup.jpg)
