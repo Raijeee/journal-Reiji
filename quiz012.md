@@ -22,7 +22,8 @@ def wordlength(list):
 a= wordlength(["Hello", "car", "travel","beach"])
 print(a)
 ```
-
+## Output:
 ![](quiz012out.png)
 
+## Flowchart:
 ![](quiz012flow.jpg)
